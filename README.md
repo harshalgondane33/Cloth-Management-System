@@ -37,6 +37,7 @@ CREATE TABLE customer (
   amount INT
 );
 
+``````
 ---
 
 ## 📂 File
